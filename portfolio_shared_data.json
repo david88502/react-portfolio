@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "name": "David Wang",
+    "titles": ["Backend Developer", "Software Engineer", "React Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/david88502",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dw101/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "95"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "95"
+
+      },
+      {
+        "name": "Flask",
+        "class": "devicon-flask-original",
+        "level": "95"
+
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "95"
+      },
+      {
+        "name":"Git",
+        "class": "devicon-git-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "level": "95"
+      },
+
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "95"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "95"
+
+      }
+    ]
+  }
+}
