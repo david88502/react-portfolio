@@ -29,10 +29,6 @@ class About extends Component {
                     height="250px"
                     src={profilepic}
                     alt="Avatar placeholder"
-                    style={{
-                      objectPosition: "center",
-                      height: "100%",
-                    }}
                   />
                   <Icon
                     icon={pythonIcon}
