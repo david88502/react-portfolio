@@ -11,5 +11,5 @@
 
 <h3>:eye_speech_bubble: Live demo</h3>
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+Check live demonstration <a href="https://david88502.github.io/react-portfolio/"><strong>here</strong></a>
 
