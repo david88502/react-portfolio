@@ -1,118 +1,249 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Hi there! My name is David Wang, and I am a software engineer with a focus on backend development. I have experience working with several frameworks, including Express, Django, and Flask. My most familiar languages are Python and JavaScript. I enjoy building scalable and efficient systems that solve complex problems. I am passionate about staying up to date with the latest trends and technologies in the industry, and I am always looking for new challenges to tackle. ⭐",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Emergency Social Network",
+      "startDate": "2023-01",
+      "description": "I developed this emergency social network with a team of brilliant engineers over a span of 4 months. In the event of a natural disaster, civilians will be able to communicate with each other and update their status through this application.",
+      "images": ["images/portfolio/esn/p1.png", "images/portfolio/esn/p2.png"],
+      "url": "https://s23esna1.onrender.com",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class":"devicon-docker-plain",
+          "name":"Docker"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class":"devicon-socketio-plain",
+          "name":"Socket.io"
+        },
+        {
+          "class":"devicon-nodejs-plain",
+          "name":"Node.js"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-vscode-plain",
+          "name": "VSCode"
+        },
+        {
+          "class":"devicon-html5-plain",
+          "name":"HTML5"
+        },
+        {
+          "class":"devicon-css3-plain",
+          "name":"CSS3"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Cloud Resource Management Platform",
+      "startDate": "2022-08",
+      "description": "Developed both the frontend and backend of this cloud resource management platform. Implemented features related to cost management and service health monitoring.",
+      "images": [
+        "images/portfolio/cloudgoda/p1.png"
+      ],
+      "url": "https://cloudgoda.aceredc.com/#/page/pricingcomparison",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-flask-original",
+          "name": "Flask"
+        },
+        {
+          "class": "devicon-couchdb-plain",
+          "name": "CouchDB"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        }
+
+      ]
+    },
+    {
+      "title": "Information Service Management Platform",
+      "startDate": "2022-06",
+      "description": "Implemented multiple frontend and backend features for this information service management platform. Refactored the backend codebase to improve the scalability and maintainability of the system.",
+      "images": [
+        "images/portfolio/inspireoz/p1.png"
+      ],
+      "url": "https://www.aceredc.com/en/serve-2-en/solution-en/serve03-5-en",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Amazon E-Commerce Platform",
+      "startDate": "2022-05",
+      "description": "Built an e-commerce platform with the MERN tech stack. Designed the application based on the Amazon website. ",
+      "images": [
+        "images/portfolio/ecommerce/p1.png",
+        "images/portfolio/ecommerce/p2.png",
+        "images/portfolio/ecommerce/p3.png"
+      ],
+      "url": "https://github.com/david88502/react-shop",
+      "technologies": [
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Google Chatroom",
+      "startDate": "2022-03",
+      "description": "Created a simple chatroom using Firebase and React. Users can chat with each other after logging in with their Google account. The app's UI is based on the Google's style guide.",
+      "images": [
+        "images/portfolio/chatroom/p1.png"
+      ],
+      "url": "https://github.com/david88502/react-chat",
+      "technologies": [
+
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class":"devicon-html5-plain",
+          "name":"HTML5"
+        },
+        {
+          "class":"devicon-css3-plain",
+          "name":"CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+
+      ]
+    },
+    {
+      "title": "AI Voice Recognition Mobile App",
+      "startDate": "2020-09",
+      "description": "Developed a mobile app that can identify who is speaking. The app is able to recognize the voice of the person and display the name of the person on the screen. The app is built using Swift and Django.",
+      "images": [
+        "images/portfolio/mobileapp/p1.png",
+        "images/portfolio/mobileapp/p2.png"
+      ],
+      "url": "https://www.youtube.com/watch?v=4gAhKTFQl1U",
+      "technologies": [
+
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-swift-plain",
+          "name": "Swift"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Acer E-Enabling Data Center Inc.",
+      "title": "Full-Stack Web Developer",
+      "years": "06.2022 - 11.2022",
+      "mainTech": ["Python","JavaScript"],
+      "technologies": [
+        "Python",
+        "Django",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "CouchDB",
+        "JavaScript",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
+        "Git"
+      ]
+    },
+    {
+      "company": "Vanguard International Semiconductor Corp",
+      "title": "Software Engineer Intern",
+      "years": "07.2020 - 08.2020",
+      "mainTech": ["Python"],
+      "technologies": ["Python", "Google Cloud API"]
+    }
+  ]
+}
