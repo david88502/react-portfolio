@@ -11,11 +11,23 @@
   },
   "projects": [
     {
+      "title": "Programming Language Implementation",
+      "startDate": "2023-07",
+      "description": "I have implemented an interpreter for a Turning complete programming language. It uses a machine model consisting of the program and instruction pointer, as well as a 1D array of at least 30,00 byte cells, a movable data pointer, and two streams of bytes for input and output.",
+      "images": ["images/portfolio/brain/p1.png"],
+      "url": "https://github.com/david88502/brain_interpreter",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C++"
+        }
+      ]
+    },
+    {
       "title": "Emergency Social Network",
       "startDate": "2023-01",
       "description": "I developed this emergency social network with a team of brilliant engineers over a span of 4 months. In the event of a natural disaster, civilians will be able to communicate with each other and update their status through this application.",
       "images": ["images/portfolio/esn/p1.png", "images/portfolio/esn/p2.png"],
-      "url": "https://s23esna1.onrender.com",
       "technologies": [
         {
           "class": "devicon-typescript-plain",

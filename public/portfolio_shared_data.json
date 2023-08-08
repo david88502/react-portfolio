@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "David Wang",
-    "titles": ["Backend Developer", "Software Engineer", "React Developer"],
+    "titles": ["C++ Developer", "Software Engineer", "Database Developer"],
     "social": [
       {
         "name": "github",
@@ -18,6 +18,21 @@
   },
   "skills": {
     "icons": [
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "95"
+      },
+      {
+        "name": "C",
+        "class": "devicon-c-plain",
+        "level": "95"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "95"
+      },
       {
         "name": "Python",
         "class": "devicon-python-plain",
